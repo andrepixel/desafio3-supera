@@ -1,0 +1,15 @@
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Controllers/ItemListController.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Controllers/ListController.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Desafio3Application.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Dtos/UserItemRequestDTO.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Dtos/UserItemResponseDTO.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Dtos/UserListRequestDTO.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Dtos/UserListResponseDTO.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Entities/UserItemEntity.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Entities/UserListEntity.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Mappers/ListMapper.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Repositories/ItemListRepository.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Repositories/ListRepository.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Services/ListService.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Usecases/ItemListUseCase.java
+/home/andre/projects/desafio3-supera/src/main/java/com/example/desafio3/Usecases/ListUseCase.java

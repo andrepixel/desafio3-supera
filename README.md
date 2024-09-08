@@ -1,1 +1,3 @@
-# desafio3-supera
+* Como rodar o projeto?
+
+> mvn spring-boot:run
